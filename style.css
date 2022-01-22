@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  background: url("/img/background3.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+h4 {
+  color: rgb(37, 36, 36);
+}
+
+.container {
+  background-color: rgba(95, 90, 90, 0.466);
+}
+
+.cont {
+  background-color: rgba(252, 249, 249, 0.568);
+  overflow: auto;
+}
+
+table {
+  text-align: center;
+}
